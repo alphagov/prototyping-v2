@@ -1,6 +1,6 @@
 # Prototyping v2
 
-This is a new prototyping app (for noobs).
+This is a suggestion for a new prototyping app. I've attempted to heavily streamline the old app.
 
 ** Get started
 
